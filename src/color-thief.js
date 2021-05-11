@@ -1,4 +1,4 @@
-import quantize from '../node_modules/quantize/dist/index.mjs';
+import quantize from '../node_modules/@moezx/quantize/dist/index.mjs';
 import core from './core.js';
 
 /*
